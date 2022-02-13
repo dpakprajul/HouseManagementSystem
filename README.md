@@ -1,5 +1,5 @@
 # watch the video for more knowledge on Javascript form
-<iframe width="962" height="541" src="https://www.youtube.com/embed/z0avfnlBRto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#  https://youtu.be/z0avfnlBRto?t=1206
 # Project Estimated time : 4 months
 ### step 1
 ![Capture](https://user-images.githubusercontent.com/38970123/153715417-0519f0c3-e324-4956-87cb-f3b92fd8bfb3.JPG)
