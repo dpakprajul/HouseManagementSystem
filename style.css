@@ -19,8 +19,8 @@
 }
 
 .main {
-    padding-right: 200px;
-    padding-left: 200px;
+    padding-right: 100px;
+    padding-left: 100px;
     padding-top: 100px;
 }
 
@@ -96,4 +96,18 @@ body {
 .dark-mode {
     background-color: black;
     color: white;
+}
+
+
+/* important for transparent image */
+
+.dark-mode img {
+    background-color: white;
+}
+
+.body .card-deck {
+    padding: 25px;
+    background-color: white;
+    color: white;
+    font-size: 25px;
 }
