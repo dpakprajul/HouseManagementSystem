@@ -102,7 +102,7 @@ body {
 /* important for transparent image */
 
 .dark-mode img {
-    background-color: white;
+    background-color: rgb(107, 100, 100);
 }
 
 .body .card-deck {
