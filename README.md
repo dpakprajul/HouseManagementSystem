@@ -7,7 +7,9 @@
 ### step 2
 Add OSM map (using openlayer js)
 
-### Steps included in between (tenant data form for adding the data to the database syste)
+### Steps included in between (tenant data form for adding the data to the database system)
+![image](https://user-images.githubusercontent.com/38970123/153954426-10e72239-d8d3-48b2-9d72-4d00b90d9cff.png)
+
 
 ### step 3
 Make automatic emailing system about the price and cost of the rent and utilities
