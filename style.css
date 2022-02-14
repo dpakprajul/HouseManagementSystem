@@ -11,8 +11,15 @@
     padding-left: 30px;
     padding-right: 30px;
     margin: 20px;
-} 
+}
+
 .form-control {
     padding-left: 10px;
     padding-right: 10px;
+}
+
+.main {
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 100px;
 }
