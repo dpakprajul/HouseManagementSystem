@@ -1,4 +1,5 @@
 # watch the video for more knowledge on Javascript form
+# watch the video for smpt email https://youtu.be/sGQSz22U8VM
 #  https://youtu.be/z0avfnlBRto?t=1206
 # Project Estimated time : 4 months
 ### step 1
